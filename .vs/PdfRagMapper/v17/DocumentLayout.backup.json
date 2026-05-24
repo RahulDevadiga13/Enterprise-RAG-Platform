@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Rahul\\RAG\\PdfRagMapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5038B81E-3CF3-8833-164B-F997FD43ECCF}|PdfRagMapper.csproj|c:\\rahul\\rag\\pdfragmapper\\controllers\\askpdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5038B81E-3CF3-8833-164B-F997FD43ECCF}|PdfRagMapper.csproj|solutionrelative:controllers\\askpdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5038B81E-3CF3-8833-164B-F997FD43ECCF}|PdfRagMapper.csproj|c:\\rahul\\rag\\pdfragmapper\\services\\textchunkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5038B81E-3CF3-8833-164B-F997FD43ECCF}|PdfRagMapper.csproj|solutionrelative:services\\textchunkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5038B81E-3CF3-8833-164B-F997FD43ECCF}|PdfRagMapper.csproj|c:\\rahul\\rag\\pdfragmapper\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5038B81E-3CF3-8833-164B-F997FD43ECCF}|PdfRagMapper.csproj|solutionrelative:controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5038B81E-3CF3-8833-164B-F997FD43ECCF}|PdfRagMapper.csproj|c:\\rahul\\rag\\pdfragmapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5038B81E-3CF3-8833-164B-F997FD43ECCF}|PdfRagMapper.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5038B81E-3CF3-8833-164B-F997FD43ECCF}|PdfRagMapper.csproj|c:\\rahul\\rag\\pdfragmapper\\services\\pdfmemoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5038B81E-3CF3-8833-164B-F997FD43ECCF}|PdfRagMapper.csproj|solutionrelative:services\\pdfmemoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5038B81E-3CF3-8833-164B-F997FD43ECCF}|PdfRagMapper.csproj|c:\\rahul\\rag\\pdfragmapper\\pdfragmapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5038B81E-3CF3-8833-164B-F997FD43ECCF}|PdfRagMapper.csproj|solutionrelative:pdfragmapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5038B81E-3CF3-8833-164B-F997FD43ECCF}|PdfRagMapper.csproj|c:\\rahul\\rag\\pdfragmapper\\services\\ollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5038B81E-3CF3-8833-164B-F997FD43ECCF}|PdfRagMapper.csproj|solutionrelative:services\\ollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5038B81E-3CF3-8833-164B-F997FD43ECCF}|PdfRagMapper.csproj|c:\\rahul\\rag\\pdfragmapper\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5038B81E-3CF3-8833-164B-F997FD43ECCF}|PdfRagMapper.csproj|solutionrelative:controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AskPdfController.cs",
+              "DocumentMoniker": "C:\\Rahul\\RAG\\PdfRagMapper\\Controllers\\AskPdfController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AskPdfController.cs",
+              "ToolTip": "C:\\Rahul\\RAG\\PdfRagMapper\\Controllers\\AskPdfController.cs",
+              "RelativeToolTip": "Controllers\\AskPdfController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvysAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T16:42:01.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PdfMemoryService.cs",
+              "DocumentMoniker": "C:\\Rahul\\RAG\\PdfRagMapper\\Services\\PdfMemoryService.cs",
+              "RelativeDocumentMoniker": "Services\\PdfMemoryService.cs",
+              "ToolTip": "C:\\Rahul\\RAG\\PdfRagMapper\\Services\\PdfMemoryService.cs",
+              "RelativeToolTip": "Services\\PdfMemoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T16:40:54.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextChunkService.cs",
+              "DocumentMoniker": "C:\\Rahul\\RAG\\PdfRagMapper\\Services\\TextChunkService.cs",
+              "RelativeDocumentMoniker": "Services\\TextChunkService.cs",
+              "ToolTip": "C:\\Rahul\\RAG\\PdfRagMapper\\Services\\TextChunkService.cs",
+              "RelativeToolTip": "Services\\TextChunkService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T16:36:58.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PdfRagMapper",
+              "DocumentMoniker": "C:\\Rahul\\RAG\\PdfRagMapper\\PdfRagMapper.csproj",
+              "RelativeDocumentMoniker": "PdfRagMapper.csproj",
+              "ToolTip": "C:\\Rahul\\RAG\\PdfRagMapper\\PdfRagMapper.csproj",
+              "RelativeToolTip": "PdfRagMapper.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-16T16:25:30.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UploadController.cs",
+              "DocumentMoniker": "C:\\Rahul\\RAG\\PdfRagMapper\\Controllers\\UploadController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UploadController.cs",
+              "ToolTip": "C:\\Rahul\\RAG\\PdfRagMapper\\Controllers\\UploadController.cs",
+              "RelativeToolTip": "Controllers\\UploadController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T15:34:59.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AiController.cs",
+              "DocumentMoniker": "C:\\Rahul\\RAG\\PdfRagMapper\\Controllers\\AiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AiController.cs",
+              "ToolTip": "C:\\Rahul\\RAG\\PdfRagMapper\\Controllers\\AiController.cs",
+              "RelativeToolTip": "Controllers\\AiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T15:23:07.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Rahul\\RAG\\PdfRagMapper\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Rahul\\RAG\\PdfRagMapper\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T15:22:44.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OllamaService.cs",
+              "DocumentMoniker": "C:\\Rahul\\RAG\\PdfRagMapper\\Services\\OllamaService.cs",
+              "RelativeDocumentMoniker": "Services\\OllamaService.cs",
+              "ToolTip": "C:\\Rahul\\RAG\\PdfRagMapper\\Services\\OllamaService.cs",
+              "RelativeToolTip": "Services\\OllamaService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T15:21:33.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
